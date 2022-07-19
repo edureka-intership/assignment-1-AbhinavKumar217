@@ -27,7 +27,7 @@
 
 .section-intro {
     height: 820px;
-    background-image: url(C:/Abhinav/Coding/WebDev/FrontEnd/Restaurant%20Website/img/1.jpg);
+    background-image: url(/1.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
